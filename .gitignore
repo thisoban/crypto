@@ -525,3 +525,12 @@ FodyWeavers.xsd
 # JetBrains Rider
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,aspnetcore
+.vs/crypto/DesignTimeBuild/.dtbcache.v2
+.vs/crypto/DesignTimeBuild/.dtbcache.v2
+.vs/crypto/v17/.suo
+.vs/slnx.sqlite
+crypto/obj/Debug/net6.0/crypto.assets.cache
+crypto/obj/Release/net6.0/crypto.assets.cache
+.vs/crypto/DesignTimeBuild/.dtbcache.v2
+.vs/crypto/v17/.suo
+.vs/slnx.sqlite
