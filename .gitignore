@@ -544,3 +544,5 @@ crypto/obj/Debug/net6.0/crypto.assets.cache
 crypto/obj/Debug/net6.0/crypto.csproj.AssemblyReference.cache
 crypto/obj/project.assets.json
 crypto/obj/project.nuget.cache
+.vs/crypto/DesignTimeBuild/.dtbcache.v2
+.vs/crypto/v17/.suo

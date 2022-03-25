@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cryptoTest", "cryptoTest\cryptoTest.csproj", "{B08F5E54-4456-4DD6-83FF-B4B8A5A0D6FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crypto", "crypto\crypto.csproj", "{D4E28A44-86A1-48BB-8206-C72CECFB7B13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "crypto", "crypto\crypto.csproj", "{D4E28A44-86A1-48BB-8206-C72CECFB7B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cryptov2", "cryptov2\cryptov2.csproj", "{98AC542F-FBBB-46E7-BD02-4A3C83C76488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D4E28A44-86A1-48BB-8206-C72CECFB7B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E28A44-86A1-48BB-8206-C72CECFB7B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E28A44-86A1-48BB-8206-C72CECFB7B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AC542F-FBBB-46E7-BD02-4A3C83C76488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AC542F-FBBB-46E7-BD02-4A3C83C76488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AC542F-FBBB-46E7-BD02-4A3C83C76488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AC542F-FBBB-46E7-BD02-4A3C83C76488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

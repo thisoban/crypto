@@ -22,8 +22,7 @@ namespace crypto.Data
 
         //protected override void OnConfiguring(DbContextOptionsBuilder options) => options.UseSqlite($"Data Source={DbPath}");
         public DataContext(DbContextOptions<DataContext> options) : base(options)
-            {
-
-            }
+        {
         }
+    }
 }
