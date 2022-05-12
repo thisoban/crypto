@@ -562,3 +562,5 @@ cryptoTest/obj/Debug/net6.0/cryptoTest.csproj.AssemblyReference.cache
 cryptoTest/obj/Debug/net6.0/cryptoTest.GeneratedMSBuildEditorConfig.editorconfig
 cryptoTest/obj/project.assets.json
 cryptoTest/obj/project.nuget.cache
+.vs/crypto/v17/.suo
+.vs/crypto/DesignTimeBuild/.dtbcache.v2
