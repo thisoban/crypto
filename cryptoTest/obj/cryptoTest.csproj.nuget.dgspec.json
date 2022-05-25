@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiso\\OneDrive - Office 365 Fontys\\Documenten\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj": {}
+    "C:\\Users\\thiso\\OneDrive\\Documents\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiso\\OneDrive - Office 365 Fontys\\Documenten\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj": {
+    "C:\\Users\\thiso\\OneDrive\\Documents\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiso\\OneDrive - Office 365 Fontys\\Documenten\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj",
+        "projectUniqueName": "C:\\Users\\thiso\\OneDrive\\Documents\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj",
         "projectName": "cryptoTest",
-        "projectPath": "C:\\Users\\thiso\\OneDrive - Office 365 Fontys\\Documenten\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj",
+        "projectPath": "C:\\Users\\thiso\\OneDrive\\Documents\\GitHub\\crypto\\cryptoTest\\cryptoTest.csproj",
         "packagesPath": "C:\\Users\\thiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiso\\OneDrive - Office 365 Fontys\\Documenten\\GitHub\\crypto\\cryptoTest\\obj\\",
+        "outputPath": "C:\\Users\\thiso\\OneDrive\\Documents\\GitHub\\crypto\\cryptoTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\thiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -82,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
