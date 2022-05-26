@@ -564,6 +564,7 @@ cryptoTest/obj/project.assets.json
 cryptoTest/obj/project.nuget.cache
 .vs/crypto/v17/.suo
 .vs/crypto/DesignTimeBuild/.dtbcache.v2
+<<<<<<< HEAD
 crypto/obj/crypto.csproj.nuget.dgspec.json
 crypto/obj/crypto.csproj.nuget.g.props
 crypto/obj/Debug/net6.0/crypto.assets.cache
@@ -578,3 +579,5 @@ cryptoTest/obj/Debug/net6.0/cryptoTest.csproj.AssemblyReference.cache
 cryptoTest/obj/Debug/net6.0/cryptoTest.GeneratedMSBuildEditorConfig.editorconfig
 cryptoTest/obj/project.assets.json
 cryptoTest/obj/project.nuget.cache
+=======
+>>>>>>> 6c63056050980b7daa67670a4e4bfd5fccc18c20
